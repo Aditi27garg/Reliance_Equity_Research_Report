@@ -106,13 +106,13 @@ Low probability, but worth naming clearly.
 ## The Two Things That Surprised Me
 
 Quick commerce risk to Retail is not really geographic. 
-I initially framed it that way — Blinkit and Zepto 
+I initially framed it that way - Blinkit and Zepto 
 as a metro problem, Tier 2/3 footprint defensible. 
 That's technically correct but incomplete. The real 
 risk is behavioural. Customers who switch to quick 
 commerce for grocery don't move the same basket to 
 a faster channel. They make different decisions 
-entirely — need-based, item-specific, no browsing. 
+entirely - need-based, item-specific, no browsing. 
 Store visits generate impulse purchases and private 
 label trials. Quick deliveries generate none of that. 
 If urban footfall drops, the margin expansion timeline 
@@ -129,7 +129,7 @@ The fear is already priced in. The recovery isn't.
 
 ## How I Built This
 
-Financial modelling in Excel — SOTP, DCF, three-scenario 
+Financial modelling in Excel - SOTP, DCF, three-scenario 
 analysis, sensitivity tables across Jio multiples, 
 O2C EBITDA, and Retail margin assumptions.
 
@@ -145,7 +145,7 @@ Independent academic report. Not investment advice.
 
 Someone who looks at the 7.1% revenue growth and 
 2.9% EBITDA growth and calls it a slow compounder. 
-That reading isn't wrong — it's just top-down. 
+That reading isn't wrong, it's just top-down. 
 
 The moment you go segment by segment, the picture 
 changes. Jio growing EBITDA at 16.8%. Retail expanding 
