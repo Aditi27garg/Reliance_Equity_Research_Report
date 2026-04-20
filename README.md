@@ -1,7 +1,7 @@
 # Reliance_Equity_Research_Report
 Reliance trades like an oil company. Jio and Retail now generate over 50% of EBITDA - the stock hasn't moved for it. I wrote a 26-page research report to understand why that gap exists and whether it closes. BUY. Target ₹1,612.
 
-# Reliance Industries — Equity Research Report
+# Reliance Industries - Equity Research Report
 
 Reliance trades like an oil company.
 Jio and Retail now generate over 50% of consolidated 
@@ -9,12 +9,6 @@ EBITDA. The stock hasn't moved for it.
 That's the whole thesis, really.
 
 BUY | Target ₹1,612 | 12-Month Upside: +14%
-
----
-
-
-
----
 
 ## What I Was Actually Trying To Figure Out
 
@@ -25,8 +19,8 @@ But then I broke it down by segment and the picture
 changed completely. Jio's EBITDA exceeded O2C for the 
 first time in FY25. Retail is being valued at roughly 
 half the multiple of DMart despite running at 10x 
-the revenue. And O2C — which everyone's worried about 
-— is cyclically weak because of Chinese capacity 
+the revenue. And O2C which everyone's worried about
+is cyclically weak because of Chinese capacity 
 overhangs. Not structurally broken. Just temporarily 
 ugly, which is exactly when the market misprices things.
 
@@ -34,13 +28,11 @@ Three businesses. Three completely different lifecycle
 stages. One blended multiple that captures none of 
 them. That gap doesn't stay forever.
 
----
-
 ## What The Report Gets Into
 
 **Valuation**
 
-SOTP is the only methodology that makes sense here —
+SOTP is the only methodology that makes sense here -
 a single blended multiple is analytically useless when 
 you're dealing with a telecom platform, a consumer 
 retailer, and a petrochemical refinery in the same 
@@ -49,7 +41,7 @@ Retail at 27x gives ₹599. O2C at 6.5x gives ₹264.
 
 DCF cross-check lands at ₹1,150-1,200. Treated as 
 a floor. Every multiple I used is conservative relative 
-to where actual peers trade — the target shouldn't 
+to where actual peers trade, the target shouldn't 
 depend on multiple expansion. It should just be what 
 the business is worth at what it's already earning.
 
@@ -57,7 +49,7 @@ the business is worth at what it's already earning.
 
 Jio's ARPU is ₹206. Airtel's is ₹245. That ₹39 gap 
 across 488 million users is roughly ₹22,700 crore 
-of annual revenue waiting to happen — on a network 
+of annual revenue waiting to happen on a network 
 that's already built and largely depreciated. The 
 incremental margin on that revenue is about 40%.
 
@@ -73,7 +65,7 @@ Jamnagar's structural position hasn't changed.
 
 **The Scenarios**
 
-Bear case is ₹1,200 — but it requires Jio ARPU to 
+Bear case is ₹1,200 but it requires Jio ARPU to 
 stall and O2C spreads to stay compressed into FY28 
 simultaneously. I gave that 20% probability because 
 those are largely independent variables. Bad things 
@@ -81,7 +73,7 @@ can happen at the same time, but this particular
 combination is a tail scenario.
 
 Base case is ₹1,612 at 55%. Not a forecast of 
-something new happening — just visible trends 
+something new happening, just visible trends 
 continuing for four more quarters.
 
 Bull case is ₹1,750 at 25%. ARPU reaches Airtel 
@@ -91,7 +83,7 @@ needs more things going right on a tighter timeline.
 
 Probability-weighted outcome: ₹1,564. Still a BUY.
 
-**Risks — The Ones That Actually Matter**
+**Risks - The Ones That Actually Matter**
 
 Russian crude disruption is the one I can't model 
 around. A $2/bbl effective cost increase hits EBITDA 
@@ -110,8 +102,6 @@ It shows up in what the market is willing to pay for
 future growth decisions. 2-3 turns of multiple 
 compression on Jio alone is ₹150-200 per share. 
 Low probability, but worth naming clearly.
-
----
 
 ## The Two Things That Surprised Me
 
@@ -137,8 +127,6 @@ rollout is essentially done. Capex normalises toward
 meaningfully positive territory at that intersection. 
 The fear is already priced in. The recovery isn't.
 
----
-
 ## How I Built This
 
 Financial modelling in Excel — SOTP, DCF, three-scenario 
@@ -152,8 +140,6 @@ company filings from LyondellBasell, DMart, Trent,
 Walmart. FY26E-FY27E figures are author estimates.
 
 Independent academic report. Not investment advice.
-
----
 
 ## Honestly, Who Pushes Back On This
 
@@ -173,12 +159,8 @@ The thesis is testable. Three quarterly datapoints
 in the next 12 months confirm or challenge it. 
 That's what makes it a position, not a narrative.
 
----
 ## Report Preview(Screenshot/Demo)
-
-![Cover Page](assets/01_research_report_cover.png)
-
-
+https://github.com/Aditi27garg/Reliance_Equity_Research_Report/blob/main/assets/01_research_report_cover.png
 
 Built by Aditi Garg  
 Galgotias College of Engineering and Technology  
